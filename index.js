@@ -1,3 +1,5 @@
+//<!-- GU CPSC 332 Example NodeJS server with Mongoose connecting to MongoDB -->
+
 //used for our express module / routing
 //https://expressjs.com/en/guide/routing.html
 const express = require("express");
